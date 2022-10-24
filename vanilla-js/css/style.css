@@ -1,0 +1,12 @@
+body{
+    background-color:darkolivegreen;
+}
+p{
+    font-size: 25px;
+}
+
+.error{
+    color: brown;
+    background-color: black;
+    font-size: 50px;
+}
